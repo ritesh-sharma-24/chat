@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8492910537",
+    "firebase_url": "https://chat-5c3f5-default-rtdb.firebaseio.com",
+    "project_id": "chat-5c3f5",
+    "storage_bucket": "chat-5c3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8492910537:android:00777194831a03f64eca18",
+        "android_client_info": {
+          "package_name": "com.ritesh.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8492910537-l5ag44g419ngtjncffo95lrmm3temkn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritesh.chat",
+            "certificate_hash": "df99a8ccd8a8c5d91f876f56f92f91ffd1df2d3b"
+          }
+        },
+        {
+          "client_id": "8492910537-r4hn0hhroj7aht8o4h2ni10usj71rbpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBlCmwIw2994qMyeC4yBMz9WUR3aFaRKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8492910537-r4hn0hhroj7aht8o4h2ni10usj71rbpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
